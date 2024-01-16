@@ -1,5 +1,4 @@
 let str = "luke, I am your father";
-str[1].toUpperCase();
 console.log(str[0].toUpperCase() + str.slice(1));
 
 let str1 = "AbcdEfg";
